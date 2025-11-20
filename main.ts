@@ -1,10 +1,5 @@
 
-/**
- * @author: Zachary Fowler
- * @version: 1.0.0
- * @date: 2025-11-20
- * @fileoverview: This file calculates cents 
- */
+
 
 // INPUT
 // asks for an input and converts the input into a proper value 
